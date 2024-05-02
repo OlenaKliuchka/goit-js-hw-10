@@ -30,7 +30,9 @@
   font-weight: bold;
   color: #4d3d3d;
 }
-
+#datetime-picker:focus {
+  box-shadow: 0 0 8px #212020;
+}
 button[data-start] {
   margin-top: 20px;
   padding: 10px 20px;
